@@ -4,4 +4,4 @@ figlet SLPT
 pkg install python
 toilet SLPT
 bash setup2.sh
-python run. py
+python2 run.py
